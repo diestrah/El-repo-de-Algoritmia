@@ -8,11 +8,11 @@ igual invirtiendo sus letras.
 
 ## Ejemplo de ejecución
 
-Ingrese cadena: Hola <br>
+Ingrese cadena: hola <br>
 No es palindromo <br>
 <br>
-Ingrese cadena: Reconocer <br>
-Reconocer es palindromo <br>
+Ingrese cadena: reconocer <br>
+reconocer es palindromo <br>
 
 
 ## Restricciones
