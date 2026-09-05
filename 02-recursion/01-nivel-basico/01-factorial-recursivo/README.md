@@ -24,3 +24,5 @@ El programa continúa pidiendo números mientras el valor ingresado sea mayor a 
 - La solución debe implementarse **únicamente utilizando recursión** (no se permiten bucles para el cálculo del factorial en sí).
 - La función encargada de calcular el factorial debe declararse con únicamente **dos parámetros**.
 - El caso base de la recursión corresponde al factorial de `0`.
+
+[volver al índice de nivel básico](01-nivel-basico)
