@@ -1,8 +1,8 @@
 # Potencia Recursiva
 
-## Descripción
+## Enunciado
 
-Programa que calcula la potencia de un número (base elevada a un exponente) 
+Realiza un programa que calcula la potencia de un número (base elevada a un exponente) 
 ingresados por el usuario, utilizando recursión. El cálculo se repite en un bucle, 
 permitiendo ingresar múltiples pares de valores hasta que el usuario decide 
 detener la ejecución.
