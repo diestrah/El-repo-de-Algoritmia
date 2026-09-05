@@ -10,11 +10,13 @@ hasta que el usuario decide detener la ejecución.
 
 Ingrese un número: 5 <br>
 El factorial de 5 es: 120 <br>
+<br>
 Ingrese un número: 3 <br>
 El factorial de 3 es: 6 <br>
+<br>
 Ingrese un número: 0 <br>
 El factorial de 0 es: 1 <br>
- <br>
+<br>
 El programa continúa pidiendo números mientras el valor ingresado sea mayor a `0`.
 
 ## Restricciones
