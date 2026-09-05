@@ -2,10 +2,10 @@
 
 ## Enunciado
 
-Realiza un programa que calcula la potencia de un número (base elevada a un exponente) 
-ingresados por el usuario, utilizando recursión. El cálculo se repite en un bucle, 
-permitiendo ingresar múltiples pares de valores hasta que el usuario decide 
-detener la ejecución.
+Implementa un programa que calcule la potencia de un número (base elevada a un 
+exponente), donde ambos valores son ingresados por el usuario. El programa debe 
+repetir el cálculo en un bucle, permitiendo ingresar múltiples pares de valores 
+hasta que el usuario decida detener la ejecución.
 
 ## Ejemplo de ejecución
 
@@ -31,5 +31,5 @@ El programa continúa pidiendo valores mientras la base ingresada sea distinta d
 - No se puede utilizar la librería `<cmath>`.
 - No se puede utilizar el operador `^`.
 - El caso base de la recursión corresponde a exponente `0`.
-
+  
 [Volver al nivel básico](..)
