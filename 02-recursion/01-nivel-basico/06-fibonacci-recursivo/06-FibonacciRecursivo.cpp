@@ -9,7 +9,6 @@
  *  Solo se debe utilizar recursión.
 */	
 
-
 #include <iostream>
 using namespace std;
 
