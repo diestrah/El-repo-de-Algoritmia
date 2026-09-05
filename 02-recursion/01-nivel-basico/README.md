@@ -15,12 +15,12 @@ Al finalizar este nivel deberías poder:
 
 ## Ejercicios
 
-1. [Calcular el factorial](01-factorial-recursivo.cpp)
-2. [Calcular la potencia](02-PotenciaRecursivo.cpp)
-3. [Imprimir hasta n ascendente y descendentemente](03-ImprimirAscDesc.cpp)
-4. [Sumar los dígitos de un número](04-SumaDigitosRecursivo.cpp)
-5. [Invertir los dígitos de un número](05-InvertirDigitosRecursivo.cpp)
-6. [Obtener un número de fibonacci](06-FibonacciRecursivo.cpp)
+1. [Calcular el factorial](01-factorial-recursivo)
+2. [Calcular la potencia](02-potencia-recursivo)
+3. [Imprimir hasta n ascendente y descendentemente](03-imprimir-asc-desc)
+4. [Sumar los dígitos de un número](04-suma-digitos-recursivo)
+5. [Invertir los dígitos de un número](05-invertir-digitos-recursivo)
+6. [Obtener un número de fibonacci](06-fibonacci-recursivo)
 
 ## Siguiente nivel
 
