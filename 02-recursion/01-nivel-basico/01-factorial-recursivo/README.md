@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Programa que calcula el factorial de un número ingresado por el usuario. 
+Realiza un programa que calcule el factorial de un número ingresado por el usuario. 
 El cálculo se repite en un bucle, permitiendo ingresar múltiples números 
 hasta que el usuario decide detener la ejecución.
 
