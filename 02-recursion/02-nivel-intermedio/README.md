@@ -17,12 +17,12 @@ Al finalizar este nivel deberías poder:
    
 ## Ejercicios
 
-1. [Imprimir los elementos de un array en orden ascendente](01-ImprimirArrayPorIndiceAscendente.cpp)
-2. [Imprimir los elementos de un array en orden descendente](02-ImprimirArrayPorIndiceDescendente.cpp)
-3. [Sumar los elementos de un array](03-SumarArrayRecursivo.cpp)
-4. [Buscar el mayor valor de un array](04-BuscarMaxArrayRecursivo.cpp)
-5. [Retornar el mayor valor de un array](05-RetornarMaxArrayRecursivo.cpp)
-6. [Verificar si una palabra es palíndroma](06-EsPalindromoRecursivo.cpp)
+1. [Imprimir los elementos de un array en orden ascendente](01-imprimir-array-ascendentemente)
+2. [Imprimir los elementos de un array en orden descendente](02-imprimir-array-descendentemente)
+3. [Sumar los elementos de un array](03-sumar-array-recursivo)
+4. [Buscar el mayor valor de un array](04-buscar-maximo-en-array)
+5. [Retornar el mayor valor de un array](05-retornar-maximo-de-un-array)
+6. [Verificar si una palabra es palíndroma](06-verificar-palindromo)
 
 ## Siguiente nivel
 
