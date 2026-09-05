@@ -11,8 +11,8 @@ igual invirtiendo sus letras.
 Ingrese cadena: hola <br>
 No es palindromo <br>
 <br>
-Ingrese cadena: reconocer <br>
-reconocer es palindromo <br>
+Ingrese cadena: 'reconocer' <br>
+'reconocer' es palindromo <br>
 
 
 ## Restricciones
