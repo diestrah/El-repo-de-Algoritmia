@@ -15,7 +15,7 @@ Al finalizar este nivel deberías poder:
 
 ## Ejercicios
 
-1. [Calcular el factorial](01-FactorialRecursivo.cpp)
+1. [Calcular el factorial](01-factorial-Recursivo.cpp)
 2. [Calcular la potencia](02-PotenciaRecursivo.cpp)
 3. [Imprimir hasta n ascendente y descendentemente](03-ImprimirAscDesc.cpp)
 4. [Sumar los dígitos de un número](04-SumaDigitosRecursivo.cpp)
