@@ -25,5 +25,5 @@ Implementación de otras variantes de listas ligadas.
 
 > [NOTA]
 > 
-> Con un buen dominio de listas ligadas, los conceptos de pila y colas
-> serán muy sencillos. Por lo que un tip sería profundizar en este capítulo.
+> Con un buen dominio de listas ligadas, los conceptos de pila y colas serán muy sencillos.
+> Por lo que un tip sería profundizar en este capítulo.
