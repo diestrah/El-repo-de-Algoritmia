@@ -11,7 +11,7 @@ desde problemas simples hasta problemas con más complejos con recursión.
 
 ### 🟢 Nivel básico
 
-Este nivel introduce las operaciones fundamentales sobre listas simplemente enlazadas.
+Este nivel introduce las operaciones fundamentales sobre listas simplemente enlazadas. <br>
 El objetivo es comprender el puntero siguiente de los nodos y cómo cambiar las referencias.
 
 [Ver ejercicios →](./01-nivel-basico)
