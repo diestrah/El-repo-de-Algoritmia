@@ -39,7 +39,8 @@ estructuras bidimensionales mediante recursión.
 [Ver ejercicios →](./03-nivel-avanzado)
 
 
-> [NOTE]
+> [NOTA]
+>
 > En esta sección aún no se utilizan técnicas como backtracking,
 > divide y vencerás o programación dinámica.
 >
