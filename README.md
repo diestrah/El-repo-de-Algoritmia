@@ -8,14 +8,14 @@ Algoritmia no es un curso para mecanizar soluciones, sino para desarrollar la ca
 diseñar algoritmos y visualizar distintas formas de resolverlos.
 
 ## Temario
-1. [Fuerza Bruta]
-2. [Recursión](02-recursion)
-3. [Listas](03-listas)
-4. [Pilas](04-pilas)
-5. [Colas](05-colas)
-6. [Divide y Vencerás](06-divide-y-venceras)
-7. [Árbol Binario](07-arbol-binario)
-8. [Árbol Binario de Búsqueda](08-arbol-binario-busqueda)
+1. [Fuerza Bruta](01-fuerza-bruta)
+3. [Recursión](02-recursion)
+4. [Listas](03-listas)
+5. [Pilas](04-pilas)
+6. [Colas](05-colas)
+7. [Divide y Vencerás](06-divide-y-venceras)
+8. [Árbol Binario](07-arbol-binario)
+9. [Árbol Binario de Búsqueda](08-arbol-binario-busqueda)
 
 ## Libros Recomendados
 1) *Data Structures and Algorithm Analysis in C++ de Mark Allen Weiss*
