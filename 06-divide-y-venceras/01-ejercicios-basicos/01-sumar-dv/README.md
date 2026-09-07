@@ -8,7 +8,7 @@ la técnica de **divide y vencerás** para calcular la suma total de sus element
 ## Ejemplo de ejecución
 
 Para el array `{4, 2, 7, 1, 3}`, el programa debería imprimir:
-<br>
+<br> <br>
 la suma es 17
 
 
