@@ -23,5 +23,6 @@ Implementación de otras variantes de listas ligadas.
 
 [Ver ejercicios →](./03-nivel-avanzado)
 
-> El objetivo es dominar primero la recursión directa y comprender
-> correctamente el funcionamiento de la pila de llamadas (stack).
+> [NOTE!]
+> Con un buen dominio de listas ligadas, los conceptos de pila y colas
+> serán muy sencillos. Por lo que un tip sería profundizar en este capítulo.
