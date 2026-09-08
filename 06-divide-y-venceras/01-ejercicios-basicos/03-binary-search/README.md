@@ -8,10 +8,13 @@ utilizando búsqueda binaria.
 
 ## Ejemplo de ejecución
 
-Para el array `{2, 4, 7, 10, 15, 20, 31}` y `x = 1`, el programa debería imprimir:
+Para el array `[2, 4, 7, 10, 15, 20, 31]` y `x = 1`, el programa debería imprimir:
 
 No existe
 
+Para el array `[2, 4, 7, 10, 15, 20, 31]` y `x = 7`, el programa debería imprimir:
+
+Existe
 
 ## Restricciones
 
