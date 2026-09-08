@@ -10,7 +10,7 @@ de **divide y vencerás**.
 
 Para el array `[8, 3, 10, 5, 2, 14, 1]`, el programa debería imprimir:
 
-minimo: 1
+minimo: 1 <br>
 maximo: 14
 
 
