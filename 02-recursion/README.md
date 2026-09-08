@@ -37,10 +37,11 @@ estructuras bidimensionales mediante recursión.
 
 [Ver ejercicios →](./03-nivel-avanzado)
 
-<br>
-### Tip 
+### Tip
+
 Practicar con 1-2 ejercicios básicos, luego con 1 intermedio y 
 después tratar de solo estudiar de los avanzados. 
+
 <br><br>
 > [NOTA]
 >
