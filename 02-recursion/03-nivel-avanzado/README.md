@@ -16,8 +16,6 @@ Al finalizar este nivel deberías poder:
 
 1. [Imprimir una matriz](01-imprimir-matriz)
 2. [Sumar los elementos de una matriz](02-sumar-matriz)
-3. [Buscar el mayor elemento de una matriz](03-buscar-maximo-de-una-matriz)
-4. [Retornar el mayor elemento de una matriz](04-retornar-maximo-de-una-matriz)
 
 ## Siguiente Tema
 
