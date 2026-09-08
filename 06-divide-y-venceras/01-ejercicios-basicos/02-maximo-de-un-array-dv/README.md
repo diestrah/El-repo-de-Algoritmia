@@ -7,7 +7,7 @@ encuentre el valor máximo utilizando la técnica de **divide y vencerás**.
 
 ## Ejemplo de ejecución
 
-Para el array `{8, 3, 10, 5, 2, 14, 1}`, el programa debería imprimir:
+Para el array `[8, 3, 10, 5, 2, 14, 1]`, el programa debería imprimir:
 <br> <br>
 El mayor valor es: 14
 
