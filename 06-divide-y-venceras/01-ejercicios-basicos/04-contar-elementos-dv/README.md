@@ -8,7 +8,7 @@ del arreglo, utilizando la técnica de **divide y vencerás**.
 
 ## Ejemplo de ejecución
 
-Para el array `{2, 4, 7, 4, 15, 4, 31}` y `x = 4`, el programa debería imprimir:
+Para el array `[2, 4, 7, 4, 15, 4, 31]` y `x = 4`, el programa debería imprimir:
 
 3
 
