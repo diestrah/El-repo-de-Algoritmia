@@ -32,12 +32,14 @@ y procesar un arreglo mediante llamadas recursivas.
 ### 🔴 Nivel avanzado
 Recursión aplicado a matrices. Manejo de dos dimensiones: 
 filas y columnas.
-
 El objetivo es aprender a controlar múltiples índices y recorrer
 estructuras bidimensionales mediante recursión.
 
 [Ver ejercicios →](./03-nivel-avanzado)
 
+<br>
+TIP: Practicar con 1-2 ejercicios básicos, luego con 1 intermedio y 
+después tratar de solo estudiar de los avanzados. 
 
 > [NOTA]
 >
