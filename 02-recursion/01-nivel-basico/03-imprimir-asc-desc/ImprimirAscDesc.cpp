@@ -10,16 +10,20 @@
  *  Solo se debe utilizar recursión.
 */	
 
-// I
-// Para ambos casos se debe utilizar recursión
-
-// Librerias
 #include <iostream>
 using namespace std;
 
-// Prototipos
-void imprimirRecursivoAsc(int num);
-void imprimirRecursivoDesc(int num);
+void imprimirRecursivoAsc(int num){
+	if (num == 0) return;
+	cout << num << " ";
+	imprimirRecursivoAsc(num - 1);
+}
+
+void imprimirRecursivoDesc(int num){
+	if (num == 0) return;
+	imprimirRecursivoDesc(num - 1);
+	cout << num << " ";
+}
 
 // Main
 int main(){
@@ -34,17 +38,4 @@ int main(){
 	} while (num != 0);
 	
 	return 0;
-}
-
-// Definición de los procedimientos
-void imprimirRecursivoAsc(int num){
-	if (num == 0) return;
-	cout << num << " ";
-	imprimirRecursivoAsc(num - 1);
-}
-
-void imprimirRecursivoDesc(int num){
-	if (num == 0) return;
-	imprimirRecursivoDesc(num - 1);
-	cout << num << " ";
 }
