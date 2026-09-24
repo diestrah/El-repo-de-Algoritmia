@@ -25,7 +25,6 @@ void imprimirRecursivoDesc(int num){
 	cout << num << " ";
 }
 
-// Main
 int main(){
 	int num;
 	do{
