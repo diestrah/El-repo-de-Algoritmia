@@ -12,7 +12,10 @@
 #include <iostream>
 using namespace std;
 
-int calcularFactorial(int numero);
+int calcularFactorial(int n){
+    if (n == 0) return 1; // caso base;
+    return n *= calcularFactorial(n - 1);;
+}
 
 int main(){
     int numero;
@@ -24,9 +27,4 @@ int main(){
     } while (numero > 0);
 
     return 0;
-}
-
-int calcularFactorial(int n){
-    if (n == 0) return 1; // caso base;
-    return n *= calcularFactorial(n - 1);;
 }
