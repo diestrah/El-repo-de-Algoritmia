@@ -14,7 +14,8 @@ using namespace std;
 
 int sumarDigitosRecursivo(int num){
 	if (num == 0) return 0;
-	return num + sumarDigitosRecursivo(num-1);
+	int digito = num % 10;
+	return digito +	sumarDigitosRecursivo(num / 10);
 }
 
 int main(){
@@ -27,10 +28,4 @@ int main(){
 	} while (num != 0);
 	
 	return 0;
-}
-
-int sumarDigitosRecursivo(int num){
-	if (num == 0) return 0;
-	int digito = num % 10;
-	return digito +	sumarDigitosRecursivo(num / 10);
 }
