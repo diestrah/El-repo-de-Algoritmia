@@ -19,7 +19,13 @@
 using namespace std;
 #include <cstring>
 
-bool esPalindromo(const char* str, int izq, int der);
+bool esPalindromo(const char* str, int izq, int der){
+	if(izq > der) return true;
+	if (str[izq] == str[der]) 
+		return esPalindromo(str, izq + 1, der - 1);
+	else 
+		return false;
+}
 
 int main(){
 	char cadena[200];
@@ -37,11 +43,3 @@ int main(){
 	return 0;
 }
 
-
-bool esPalindromo(const char* str, int izq, int der){
-	if(izq > der) return true;
-	if (str[izq] == str[der]) 
-		return esPalindromo(str, izq + 1, der - 1);
-	else 
-		return false;
-}
