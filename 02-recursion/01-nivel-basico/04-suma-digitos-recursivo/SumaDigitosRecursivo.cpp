@@ -12,7 +12,10 @@
 #include <iostream>
 using namespace std;
 
-int sumarDigitosRecursivo(int num);
+int sumarDigitosRecursivo(int num){
+	if (num == 0) return 0;
+	return num + sumarDigitosRecursivo(num-1);
+}
 
 int main(){
 	int num;
