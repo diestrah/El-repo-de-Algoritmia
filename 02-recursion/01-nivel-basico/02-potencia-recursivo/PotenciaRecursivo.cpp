@@ -19,7 +19,10 @@
 #include <iostream>
 using namespace std;
 
-int calcPotenciaRecursivo(int base, int exp);
+int calcPotenciaRecursivo(int base, int exp){
+	if (exp == 0) return 1;
+	return base * calcPotenciaRecursivo(base, exp - 1); 
+}
 
 int main(){
 	int base, exp;
@@ -33,7 +36,3 @@ int main(){
 	return 0;
 }
 
-int calcPotenciaRecursivo(int base, int exp){
-	if (exp == 0) return 1;
-	return base * calcPotenciaRecursivo(base, exp - 1); 
-}
