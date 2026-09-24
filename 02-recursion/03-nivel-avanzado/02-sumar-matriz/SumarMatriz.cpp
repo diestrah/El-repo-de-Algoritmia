@@ -2,9 +2,9 @@
  *	Autor	:	Naim Diestra
  *	Fecha	:	18/08/2026
  * 	
- *  Descripción: 
- *	Este programa implementa una función que calcula la suma de los 
- *  elementos de una matriz utilizando recursión.
+ *  DescripciÃ³n: 
+ *	Este programa implementa una funciÃ³n que calcula la suma de los 
+ *  elementos de una matriz utilizando recursiÃ³n.
  */
 
 #include <iostream>
@@ -13,25 +13,6 @@ using namespace std;
 #define N 6 // representa a las filas
 #define M 4 // representa a las columnas
 
-void sumarMatriz(int matriz[N][M], int fila, int col, int filaFin, int colFin, int& suma);
-
-int main() {
-    int suma = 0;
-    int matriz[N][M]{
-        {20, 21, 22, 23},
-        {24, 25, 26, 27},
-        {28, 29, 30, 31},
-        {32, 33, 34, 35},
-        {36, 37, 38, 39},
-        {40, 41, 42, 43},
-    };
-
-    sumarMatriz(matriz, 0, 0, N, M, suma);
-
-    cout << "La suma de los elementos de la matriz es: " << suma << endl;
-
-    return 0;
-}
 
 void sumarMatriz(int matriz[N][M], int fila, int col, int filaFin, int colFin, int& suma) {
     // Caso base: ya recorrimos todas las filas
@@ -49,4 +30,23 @@ void sumarMatriz(int matriz[N][M], int fila, int col, int filaFin, int colFin, i
 
     // Avanzamos a la siguiente columna
     sumarMatriz(matriz, fila, col + 1, filaFin, colFin, suma);
+}
+
+
+int main() {
+    int suma = 0;
+    int matriz[N][M]{
+        {20, 21, 22, 23},
+        {24, 25, 26, 27},
+        {28, 29, 30, 31},
+        {32, 33, 34, 35},
+        {36, 37, 38, 39},
+        {40, 41, 42, 43},
+    };
+
+    sumarMatriz(matriz, 0, 0, N, M, suma);
+
+    cout << "La suma de los elementos de la matriz es: " << suma << endl;
+
+    return 0;
 }
