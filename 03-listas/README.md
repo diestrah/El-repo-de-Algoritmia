@@ -6,6 +6,12 @@ listas ligadas en C++.
 Los ejercicios están organizados por nivel de dificultad para avanzar
 desde problemas simples hasta problemas con más complejos con recursión.
 
+## Estructura de los ejercicios
+- funciones.h: contiene los encabezados de la solución
+- funciones.cpp: contiene el módulo de la solución en C++
+- main.cpp: contiene la implementación de la solución en C++
+- BibliotecaListas: biblioteca (modificable) que sirve de apoyo para manipular las listas
+- README.md: contiene el enunciado 
 
 ## Ruta de aprendizaje
 
