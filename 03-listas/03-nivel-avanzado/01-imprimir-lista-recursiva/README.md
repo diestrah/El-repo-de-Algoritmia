@@ -17,7 +17,6 @@ Insertando los valores `57, 62, 63, 65, 68, 72` al final de la lista (en ese ord
 La primera línea corresponde a la impresión iterativa (ya implementada en la biblioteca), y la segunda a la impresión utilizando la función recursiva a implementar.
 
 ## Restricciones
-- No debe invertir los nodos la lista
 - La solución debe implementarse **únicamente utilizando recursión**.
 - El caso base de la recursión corresponde a alcanzar un nodo nulo (final de la lista).
 
