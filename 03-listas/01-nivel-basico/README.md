@@ -26,4 +26,4 @@ Al finalizar este nivel deberías poder:
    
 ## Siguiente nivel
 
-➡️ [Nivel avanzado](../03-nivel-avanzado)
+➡️ [Nivel intermedio](../02-nivel-intermedio)
