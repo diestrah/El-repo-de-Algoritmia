@@ -27,7 +27,7 @@ El objetivo es comprender el puntero siguiente de los nodos y cómo cambiar las 
 Este nivel se centra netamente en la manipulación de los nodos de las listas. <br>
 Se adquiere un buen nivel para listas y manejo de punteros.
 
-[Ver ejercicios →](./03-nivel-intermedio)
+[Ver ejercicios →](./02-nivel-intermedio)
 
 ### 🔴 Nivel avanzado
 Recursión aplicado a listas ligadas. <br>
