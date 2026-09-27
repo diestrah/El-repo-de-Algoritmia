@@ -1,0 +1,8 @@
+#ifndef INC_05_INVERTIR_LISTA_ITERATIVA_FUNCIONES_H
+#define INC_05_INVERTIR_LISTA_ITERATIVA_FUNCIONES_H
+
+#include "BibliotecaListas/Lista.h"
+
+void invertirLista(Lista& lista);
+
+#endif //INC_05_INVERTIR_LISTA_ITERATIVA_FUNCIONES_H
