@@ -23,5 +23,9 @@ Utilizar el cmd de windows o bash si estás en linux / macos y colocar el siguie
 Para tener localmente las actualizaciones del repositorio realizar el comando (dentro del repositorio) <br>
 ```git pull```
 
+## ¿Cómo abrir un proyecto?
+Abrir ```clion``` y darle a ```open project```. El ide reconocerá el cmakelists.txt y generará los 
+archivos necesarios para la compilación y ejecución del programa. 
+
 ## Libros Recomendados
 1) *Data Structures and Algorithm Analysis in C++ de Mark Allen Weiss*
