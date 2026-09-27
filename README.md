@@ -12,7 +12,7 @@ diseñar algoritmos y visualizar distintas formas de resolverlos.
 3. [Recursión](02-recursion)
 4. [Listas](03-listas)
 5. [Pilas](04-pilas)
-6. [Colas](05-colas)
+6. [Colas](05-cola)
 7. [Divide y Vencerás](06-divide-y-venceras)
 8. [Árbol Binario](07-arbol-binario)
 9. [Árbol Binario de Búsqueda](08-arbol-binario-busqueda)
