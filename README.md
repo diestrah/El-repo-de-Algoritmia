@@ -17,5 +17,11 @@ diseñar algoritmos y visualizar distintas formas de resolverlos.
 8. [Árbol Binario](07-arbol-binario)
 9. [Árbol Binario de Búsqueda](08-arbol-binario-busqueda)
 
+## ¿Cómo clonar el repositorio?
+Utilizar el cmd de windows o bash si estás en linux / macos y colocar el siguiente comando:
+```git clone https://github.com/diestrah/El-repo-de-Algoritmia.git ```
+Para tener localmente las actualizaciones del repositorio realizar el comando (dentro del repositorio)
+```git pull```
+
 ## Libros Recomendados
 1) *Data Structures and Algorithm Analysis in C++ de Mark Allen Weiss*
