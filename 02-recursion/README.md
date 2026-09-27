@@ -8,7 +8,7 @@ desde problemas simples hasta problemas con estructuras más complejas
 como arreglos y matrices.
 
 ### TIPS
-Practicar con 1-2 ejercicios básicos, luego con 1 intermedio y 
+Practicar con 1-2 ejercicios básicos, luego con 1-2 intermedios y 
 después tratar de solo estudiar de los avanzados. 
 
 
