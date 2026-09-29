@@ -26,4 +26,7 @@ Lista ordenada: 2 5 6 7 8 12 86
 - No se deben crear nuevos nodos: solo se reordenan los nodos ya existentes.
 - La complejidad temporal del algoritmo debe ser **O(n²)**.
 
+## Nota
+- No es necesario intercambiar los nodos, pero sí se debe insertar el menor nodo al inicio de la lista.
+
 [Volver al nivel intermedio](..)
