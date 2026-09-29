@@ -28,5 +28,5 @@ Lista ordenada: 2 5 6 7 8 12 86
 
 ## Nota
 - No es necesario intercambiar los nodos, pero sí se debe insertar el menor nodo al inicio de la lista.
-
+- Puedes intercambiar los nodos... pero sería un minireto para ti d:
 [Volver al nivel intermedio](..)
