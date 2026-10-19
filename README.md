@@ -4,9 +4,8 @@ Este repositorio reúne ejercicios e implementaciones de las principales estruct
 
 ## 💡 Recomendación de estudio
 
-Mi recomendación para abordar este curso es **comprender primero la teoría**. Una vez asimilados los conceptos, practica con ejercicios sencillos e incrementa gradualmente la dificultad.
-
-> 🧠 Algoritmia no es un curso para mecanizar soluciones, sino para desarrollar la capacidad de analizar problemas, diseñar algoritmos y visualizar distintas formas de resolverlos.
+Mi recomendación para abordar este curso es **comprender primero la teoría**. Una vez asimilados los conceptos, practica con ejercicios sencillos e incrementa gradualmente la dificultad. <br>
+Algoritmia no es un curso para mecanizar soluciones, sino para desarrollar la capacidad de analizar problemas, diseñar algoritmos y visualizar distintas formas de resolverlos.
 
 ## 📖 Temario
 
