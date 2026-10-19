@@ -10,16 +10,16 @@ Mi recomendación para abordar este curso es **comprender primero la teoría**. 
 
 ## 📖 Temario
 
-| # | Tema |
-|---|------|
-| 1 | [💪 Fuerza Bruta](01-fuerza-bruta) |
-| 2 | [🔁 Recursión](02-recursion) |
-| 3 | [🔗 Listas](03-listas) |
-| 4 | [🥞 Pilas](04-pilas) |
-| 5 | [🚶 Colas](05-cola) |
-| 6 | [✂️ Divide y Vencerás](06-divide-y-venceras) |
-| 7 | [🌳 Árbol Binario](07-arbol-binario) |
-| 8 | [🔍 Árbol Binario de Búsqueda](08-arbol-binario-busqueda) |
+| # | Tema | ¿De qué trata? |
+|---|------|----------------|
+| 1 | [💪 Fuerza Bruta](01-fuerza-bruta) | Probar todas las posibilidades hasta encontrar la solución. |
+| 2 | [🔁 Recursión](02-recursion) | Resolver un problema a partir de versiones más pequeñas de sí mismo. |
+| 3 | [🔗 Listas](03-listas) | Estructura de nodos enlazados: recorrer, insertar, eliminar y reordenar. |
+| 4 | [🥞 Pilas](04-pilas) | Estructura LIFO: el último en entrar es el primero en salir. |
+| 5 | [🚶 Colas](05-cola) | Estructura FIFO: el primero en entrar es el primero en salir. |
+| 6 | [✂️ Divide y Vencerás](06-divide-y-venceras) | Dividir el problema en subproblemas, resolverlos y combinar los resultados. |
+| 7 | [🌳 Árbol Binario](07-arbol-binario) | Estructura jerárquica donde cada nodo tiene como máximo dos hijos. |
+| 8 | [🔍 Árbol Binario de Búsqueda](08-arbol-binario-busqueda) | Árbol ordenado que permite buscar, insertar y eliminar de forma eficiente. |
 
 ## ⬇️ ¿Cómo clonar el repositorio?
 
