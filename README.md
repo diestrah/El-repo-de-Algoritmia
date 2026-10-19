@@ -1,31 +1,44 @@
-# El-repo-de-Algoritmia
-Este repositorio reúne ejercicios e implementaciones de las principales estructuras de datos estudiadas en el curso. 
+# 📚 El-repo-de-Algoritmia
 
-## Recomendación de estudio  
-Mi recomendación para abordar este curso es comprender primero la teoría. 
-Una vez asimilado los conceptos, practicar con ejercicios sencillos y incrementar gradualmente la dificultad. <br> 
-Algoritmia no es un curso para mecanizar soluciones, sino para desarrollar la capacidad de analizar problemas,
-diseñar algoritmos y visualizar distintas formas de resolverlos.
+Este repositorio reúne ejercicios e implementaciones de las principales estructuras de datos estudiadas en el curso. 🚀
 
-## Temario
-1. [Fuerza Bruta](01-fuerza-bruta)
-3. [Recursión](02-recursion)
-4. [Listas](03-listas)
-5. [Pilas](04-pilas)
-6. [Colas](05-cola)
-7. [Divide y Vencerás](06-divide-y-venceras)
-8. [Árbol Binario](07-arbol-binario)
-9. [Árbol Binario de Búsqueda](08-arbol-binario-busqueda)
+## 💡 Recomendación de estudio
 
-## ¿Cómo clonar el repositorio?
-Utilizar el cmd de windows o bash si estás en linux / macos y colocar el siguiente comando: <br> 
-```git clone https://github.com/diestrah/El-repo-de-Algoritmia.git ```<br> 
-Para tener localmente las actualizaciones del repositorio realizar el comando (dentro del repositorio) <br>
-```git pull```
+Mi recomendación para abordar este curso es **comprender primero la teoría**. Una vez asimilados los conceptos, practica con ejercicios sencillos e incrementa gradualmente la dificultad.
 
-## ¿Cómo abrir un proyecto?
-Abrir ```clion``` y darle a ```open project```. El ide reconocerá el cmakelists.txt y generará los 
-archivos necesarios para la compilación y ejecución del programa. 
+> 🧠 Algoritmia no es un curso para mecanizar soluciones, sino para desarrollar la capacidad de analizar problemas, diseñar algoritmos y visualizar distintas formas de resolverlos.
 
-## Libros Recomendados
-1) *Data Structures and Algorithm Analysis in C++ de Mark Allen Weiss*
+## 📖 Temario
+
+| # | Tema |
+|---|------|
+| 1 | [💪 Fuerza Bruta](01-fuerza-bruta) |
+| 2 | [🔁 Recursión](02-recursion) |
+| 3 | [🔗 Listas](03-listas) |
+| 4 | [🥞 Pilas](04-pilas) |
+| 5 | [🚶 Colas](05-cola) |
+| 6 | [✂️ Divide y Vencerás](06-divide-y-venceras) |
+| 7 | [🌳 Árbol Binario](07-arbol-binario) |
+| 8 | [🔍 Árbol Binario de Búsqueda](08-arbol-binario-busqueda) |
+
+## ⬇️ ¿Cómo clonar el repositorio?
+
+Usa el cmd de Windows, o bash si estás en Linux o macOS, y ejecuta:
+
+```bash
+git clone https://github.com/diestrah/El-repo-de-Algoritmia.git
+```
+
+Para traer las actualizaciones del repositorio, ejecuta dentro de él:
+
+```bash
+git pull
+```
+
+## 🛠️ ¿Cómo abrir un proyecto?
+
+Abre `CLion` y selecciona `Open Project`. El IDE reconocerá el `CMakeLists.txt` y generará los archivos necesarios para compilar y ejecutar el programa.
+
+## 📕 Libros recomendados
+
+1. *Data Structures and Algorithm Analysis in C++* - Mark Allen Weiss
