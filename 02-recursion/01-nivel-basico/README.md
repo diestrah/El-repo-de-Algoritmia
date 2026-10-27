@@ -16,16 +16,16 @@ Al finalizar este nivel deberías poder:
 
 ## 📚 Ejercicios
 
-| # | Ejercicio | Qué practicas |
-|---|-----------|---------------|
-| 1 | [❗ Calcular el factorial](01-factorial-recursivo) | Caso base y reducción en 1 |
-| 2 | [⚡ Calcular la potencia](02-potencia-recursivo) | Recursión con dos parámetros |
-| 3 | [↕️ Imprimir hasta n ascendente y descendentemente](03-imprimir-asc-desc) | Operar antes y después de la llamada |
-| 4 | [➕ Sumar los dígitos de un número](04-suma-digitos-recursivo) | Descomponer un número dígito a dígito |
-| 5 | [🔄 Invertir los dígitos de un número](05-invertir-digitos-recursivo) | Acumular un resultado en cada llamada |
-| 6 | [🐇 Obtener un número de Fibonacci](06-fibonacci-recursivo) | Dos llamadas recursivas por paso |
+| # | Ejercicio |
+|---|-----------|
+| 1 | [❗ Calcular el factorial](01-factorial-recursivo) |
+| 2 | [⚡ Calcular la potencia](02-potencia-recursivo) | 
+| 3 | [↕️ Imprimir hasta n ascendente y descendentemente](03-imprimir-asc-desc) | 
+| 4 | [➕ Sumar los dígitos de un número](04-suma-digitos-recursivo) | 
+| 5 | [🔄 Invertir los dígitos de un número](05-invertir-digitos-recursivo) | 
+| 6 | [🐇 Obtener un número de Fibonacci](06-fibonacci-recursivo) | 
 
-## 💪 ¡A practicar!
+## 👀 TIP
 
 Antes de programar, **traza a mano** las llamadas de un ejemplo pequeño. Verás cuándo se alcanza el caso base y cómo se resuelven las llamadas al retornar. ✍️
 
