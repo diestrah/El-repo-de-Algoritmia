@@ -1,10 +1,3 @@
-/*	Ejercicio:
-/*	Contar las inversiones de dos arrays.
-/*	Al momento de contar las inversiones, insertar los datos
-/*	ordenadamente en otro array. Finalmente, imprimir este	
-/*	último array.
-*/
-
 #include <iostream>
 using namespace std;
 

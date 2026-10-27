@@ -1,8 +1,3 @@
-/*
-	Dado un arreglo de enteros,
-	implementa una funcion recursiva con divide y venceras
-	que determine si el arreglo esta ordenado de menor a mayor.
-*/
 #include <iostream>
 using namespace std;
 
@@ -15,7 +10,7 @@ int main(){
 	if(estaOrdenado(A, 0, n-1)){
 		cout << "Esta ordenado" << endl;
 	} else{
-		cout << "No est� ordenado" << endl;
+		cout << "No esta ordenado" << endl;
 	}
 
 	return 0;

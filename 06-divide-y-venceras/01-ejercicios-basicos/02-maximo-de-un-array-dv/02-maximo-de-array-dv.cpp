@@ -1,9 +1,3 @@
-/*
-	Dado un arreglo de enteros,
-	escribe una funcion recursiva en C++
-	que encuentre el valor maximo usando divide y venceras.
-*/
-
 #include <iostream>
 using namespace std;
 

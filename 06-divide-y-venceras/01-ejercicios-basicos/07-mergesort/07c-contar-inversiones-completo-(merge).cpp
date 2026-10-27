@@ -9,13 +9,13 @@ int main(){
 	int A[] = {2, 4, 1, 3, 5};
 	int n = sizeof(A) / sizeof(A[0]);
 	int cant=0;
+	
 	contarInversiones(A, 0, n-1, cant);
 	imprimirArray(A, n);
  	cout << "Hay " << cant << " inversiones " << endl;
 	
 	return 0;
 }
-
 
 
 void contarInversiones(int* A, int ini, int fin, int& cant){

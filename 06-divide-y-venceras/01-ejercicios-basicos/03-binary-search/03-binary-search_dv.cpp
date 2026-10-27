@@ -1,10 +1,3 @@
-/*
-	Dado un arreglo ordenado de enteros,
-	implementa una funcion recursiva en C++
-	que determine si un numero x esta dentro del arreglo.
-	(Binary seach)
-*/
-
 #include <iostream>
 using namespace std;
 

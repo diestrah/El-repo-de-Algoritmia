@@ -1,9 +1,3 @@
-/*
-	Dado un arreglo no necesariamente ordenado,
-	cuenta cuantas veces aparece un numero x
-	usando divide y venceras.
-*/
-
 #include <iostream>
 using namespace std;
 

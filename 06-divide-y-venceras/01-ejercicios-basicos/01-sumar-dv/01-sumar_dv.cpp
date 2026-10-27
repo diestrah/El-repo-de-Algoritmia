@@ -1,9 +1,3 @@
-/*
-	Dado un arreglo de numeros enteros,
-	escribe un algoritmo recursivo usando divide y venceras
-	para calcular la suma total.
-*/
-
 #include <iostream>
 using namespace std;
 

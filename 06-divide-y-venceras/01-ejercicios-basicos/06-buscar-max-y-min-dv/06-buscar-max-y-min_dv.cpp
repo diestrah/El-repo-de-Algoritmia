@@ -1,8 +1,3 @@
-/*	Dado un arreglo de enteros, 
-	implementa una funcion con divide y venceras 
-	que encuentre el minimo y el maximo del arreglo.
-*/
-
 #include <iostream>
 using namespace std;
 
