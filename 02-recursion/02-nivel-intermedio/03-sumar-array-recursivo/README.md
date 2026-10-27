@@ -1,22 +1,23 @@
-# Suma de Array Recursiva
+# ➕ Suma de Array Recursiva
 
-## Enunciado
+🟡 **Dificultad:** Intermedia · 🧠 **Técnica:** Recursión (acumular un resultado) · ⏱️ **Tiempo:** O(n) · 💾 **Espacio:** O(n)
+
+## 📝 Enunciado
 
 Implementa un programa que calcule la suma de los valores almacenados en un 
 array, utilizando recursión.
 
-## Ejemplo de ejecución
+## 🧪 Ejemplo de ejecución
 
-Para el array `{23, 17, 43, 12, 87, 43, 12}`, el programa debería imprimir:
-
-12 43 87 12 43 17 23 <br>
+Para el array `[23, 17, 43, 12, 87, 43, 12]`, el programa debería imprimir:
+```
+12 43 87 12 43 17 23 
 La suma es: 237
-
-
-## Restricciones
+```
+## 🚧 Restricciones
 
 - La solución debe implementarse **únicamente utilizando recursión**.
 - La función encargada de sumar el array debe declararse con **dos parámetros** (el array y el índice/tamaño).
 - El caso base de la recursión corresponde a un índice menor a `1`.
 
-[Volver al nivel intermedio](..)
+⬅️ [Volver al nivel intermedio](..)
