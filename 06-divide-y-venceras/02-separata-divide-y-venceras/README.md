@@ -13,7 +13,7 @@ Ejercicios de la separata del curso, resueltos con la técnica de **divide y ven
 | [💻 ejercicio-04.cpp](ejercicio-04.cpp) | Solución del ejercicio 4 |
 | [💻 ejercicio-06.cpp](ejercicio-06.cpp) | Solución del ejercicio 6 |
 
-## 💪 ¡A practicar!
+## 👀 Nota
 
 Lee primero el enunciado en el PDF e **intenta resolverlo por tu cuenta** antes de abrir el `.cpp`. ✍️
 
