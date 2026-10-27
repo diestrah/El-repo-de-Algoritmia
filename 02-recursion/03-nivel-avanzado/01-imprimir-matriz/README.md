@@ -1,13 +1,16 @@
-# Impresión de Matriz Recursiva
+# 🖨️ Impresión de Matriz Recursiva
 
-## Enunciado
+🔴 **Dificultad:** Avanzada · 🧠 **Técnica:** Recursión (dos índices: fila y columna) · ⏱️ **Tiempo:** O(n · m) · 💾 **Espacio:** O(n · m)
+
+## 📝 Enunciado
 
 Implementa una función que imprima el contenido de una matriz, utilizando 
 recursión.
 
-## Ejemplo de ejecución
+## 🧪 Ejemplo de ejecución
 
 Para la matriz:
+
 ```text
 20 21 22 23 
 24 25 26 27 
@@ -18,6 +21,7 @@ Para la matriz:
 ```
 
 El programa debería imprimir:
+
 ```text
 20 21 22 23 
 24 25 26 27 
@@ -27,9 +31,9 @@ El programa debería imprimir:
 40 41 42 43 
 ```
 
-## Restricciones
+## 🚧 Restricciones
 
 - La solución debe implementarse **únicamente utilizando recursión** (no se permiten bucles para el recorrido de la matriz).
 - El caso base de la recursión corresponde a haber recorrido todas las filas de la matriz.
 
-[Volver al nivel avanzado](..)
+⬅️ [Volver al nivel avanzado](..)

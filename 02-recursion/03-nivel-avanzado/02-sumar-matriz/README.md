@@ -1,11 +1,13 @@
-# Suma de Matriz Recursiva
+# ➕ Suma de Matriz Recursiva
 
-## Enunciado
+🔴 **Dificultad:** Avanzada · 🧠 **Técnica:** Recursión (dos índices y resultado por referencia) · ⏱️ **Tiempo:** O(n · m) · 💾 **Espacio:** O(n · m)
+
+## 📝 Enunciado
 
 Implementa una función que calcule la suma de los elementos de una matriz, 
 utilizando recursión.
 
-## Ejemplo de ejecución
+## 🧪 Ejemplo de ejecución
 
 Para la matriz:
 
@@ -18,15 +20,16 @@ Para la matriz:
 40 41 42 43
 ```
 
-El programa debería imprimir: <br>
+El programa debería imprimir:
 
-La suma de los elementos de la matriz es: 366
+```text
+La suma de los elementos de la matriz es: 756
+```
 
-<br>
-## Restricciones
+## 🚧 Restricciones
 
 - La solución debe implementarse **únicamente utilizando recursión** (no se permiten bucles para el recorrido de la matriz).
 - El resultado debe obtenerse a través de un parámetro pasado por referencia (`suma`), ya que la función es `void`.
 - El caso base de la recursión corresponde a haber recorrido todas las filas de la matriz.
 
-[Volver al nivel avanzado](..)
+⬅️ [Volver al nivel avanzado](..)
