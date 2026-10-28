@@ -1,15 +1,3 @@
-/*
- *  Autor	: 	Naim Diestra
- *  Fecha	:	13/05/2026
- *
- *	Descripción:
- *  Este programa implementa una función que luego de ingresar un numero n, 
- *  imprime del 1 al n de forma ascendente y luego descendente.
- *
- *  Restricciones:
- *  Solo se debe utilizar recursión.
-*/	
-
 #include <iostream>
 using namespace std;
 

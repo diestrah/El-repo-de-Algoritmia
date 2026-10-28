@@ -1,14 +1,3 @@
-/*
- *  Autor	: 	Naim Diestra
- *  Fecha	:	13/05/2026
- *
- *	Descripción:
- *  Este programa implementa una función que calcular la suma de sus dígitos utilizando recurisión.
- *
- *  Restricciones:
- *  Solo se debe utilizar recursión. 
-*/	
-
 #include <iostream>
 using namespace std;
 

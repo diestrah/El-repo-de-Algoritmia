@@ -1,14 +1,3 @@
-/*
- *  Autor	: 	Naim Diestra
- *  Fecha	:	10/05/2026
- *
- *	Descripción:
- *  Este programa implementa una función que calcula el factorial de un número utilizando recursión
- *
- *  Restricciones:
- *  Solo se debe utilizar recursión. La función debe incluir solo dos parámetros.
-*/	
-
 #include <iostream>
 using namespace std;
 
