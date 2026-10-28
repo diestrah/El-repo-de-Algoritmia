@@ -11,7 +11,7 @@ int main() {
     while (true) {
         cout << "Ingrese número y base: ";
         cin >> base >> exp;
-        if (base == 0 && exp == 0) break;
+        if (base == 0) break;
         int potencia = calcPotenciaRecursivo(base, exp);
         cout << "La potencia es: " << potencia << endl;
     };
