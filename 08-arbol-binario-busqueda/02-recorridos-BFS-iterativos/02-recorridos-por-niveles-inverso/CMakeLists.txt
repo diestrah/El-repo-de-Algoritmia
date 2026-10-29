@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 4.0)
-project(05_recorridos_por_niveles_inverso)
+project(recorridos_por_niveles_inverso)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(05_recorridos_por_niveles_inverso main.cpp
+add_executable(recorridos_por_niveles_inverso main.cpp
         Funciones.cpp
         Funciones.h
         BibliotecaArbolBinarioBusqueda/FuncionesArbolBinarioBusqueda.cpp

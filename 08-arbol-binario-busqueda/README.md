@@ -18,8 +18,8 @@ Al finalizar estos ejercicios deberías poder:
 
 | # | Sección | Estructura auxiliar | Qué practicas |
 |---|---------|---------------------|---------------|
-| 1 | [🥞 Recorridos DFS iterativos](01-recorridos-DFS-iterativos) | Pila y Cola | Pre-orden, en-orden y pos-orden |
-| 2 | [🚶 Recorridos BFS iterativos](02-recorridos-BFS-iterativos) | Cola | Recorridos por niveles y sus variantes |
+| 1 | [🥞 Recorridos DFS iterativos](01-recorridos-DFS-iterativos) | Pila | Pre-orden, en-orden y pos-orden |
+| 2 | [🚶 Recorridos BFS iterativos](02-recorridos-BFS-iterativos) | Pila y Cola | Recorridos por niveles y sus variantes |
 | 3 | [🧭 Recorridos especiales iterativos](03-recorridos-especiales-iterativos) | Pila y cola | Frontera y diagonales |
 
 ## 👀 TIPS

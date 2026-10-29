@@ -1,17 +1,3 @@
-/*
- *  Autor   :   Naim Diestra
- *  Fecha   :   20/08/2026
- *
- *  Descripción:
- *  Este programa implementa una función que recorre en pre-orden un arbol
- *  binario de búsqueda de forma iterativa.
- *
- *  Restricciones:
- *  - No se puede utilizar recursión
- *  - Se utiliza una pila
- *  - Se debe manipular los nodos
- */
-
 #include <iostream>
 using namespace std;
 #include "Funciones.h"
