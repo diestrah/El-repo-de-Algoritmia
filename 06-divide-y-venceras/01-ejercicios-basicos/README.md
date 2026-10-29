@@ -26,7 +26,7 @@ Al finalizar este nivel deberías poder:
 | 7 | [🔀 Mergesort](07-mergesort) | O(n log n) |
 | 8 | [⚡ Exponenciación rápida](08-exponenciacion-rapida-dv) | O(log n) |
 | 9 | [✖️ Multiplicación rápida](09-multiplicacion-rapida-dv) | O(log n) |
-| 10 | [⛰️ Buscar un pico](10-buscar-pico) | O(log n) |
+| 10 | [⛰️ Buscar un pico](10-buscar-pico-dv) | O(log n) |
 
 ## 💪 ¡A practicar!
 

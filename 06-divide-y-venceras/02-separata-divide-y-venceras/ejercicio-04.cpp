@@ -1,4 +1,6 @@
 #include <iostream>
+#include <climits>
+#include <algorithm>
 using namespace std;
 
 int sumaMax(int* arr, int ini, int fin);	
@@ -23,7 +25,7 @@ int sumaMax(int* arr, int ini, int fin){
 }	
 
 int sumaMaxCentro(int *arr, int ini, int mid, int fin){
-	int maxIzq = 0, maxDer = 0;
+	int maxIzq = INT_MIN, maxDer = INT_MIN;
 	int izq = 0;
 	int finIzq = mid - ini;
 	int der = mid - ini + 1;
@@ -38,11 +40,7 @@ int sumaMaxCentro(int *arr, int ini, int mid, int fin){
 	suma = 0;
 	for(int i=der; i<finDer; i++){
 		suma += arr[i];
-		if(suma > maxDer) maxDer = suma;
+		if (suma > maxDer) maxDer = suma;
 	}
 	return maxIzq + maxDer;
-}
-
-int max(int a, int b){
-	return a>b ? a : b;
 }
