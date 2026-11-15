@@ -1,0 +1,9 @@
+#ifndef INC_01_IMPLEMENTACION_ELEMENTOCOLA_H
+#define INC_01_IMPLEMENTACION_ELEMENTOCOLA_H
+
+struct ElementoCola{
+    int id;
+    int prioridad;
+};
+
+#endif //INC_01_IMPLEMENTACION_ELEMENTOCOLA_H
