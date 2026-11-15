@@ -24,4 +24,4 @@ Para los arreglos `A = [2, 4]` y `B = [1, 3, 5]`, el programa debería imprimir:
 - La complejidad espacial del algoritmo debe ser **O(n + m)**.
 
 
-[Siguiente ejercicio](07b-contar-inversiones-de-dos-arrays)
+[Siguiente ejercicio](../07b-contar-inversiones-de-dos-arrays)

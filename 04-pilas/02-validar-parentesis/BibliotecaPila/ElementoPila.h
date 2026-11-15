@@ -1,0 +1,8 @@
+#ifndef INC_01_IMPLEMENTACION_ELEMENTOPILA_H
+#define INC_01_IMPLEMENTACION_ELEMENTOPILA_H
+
+struct ElementoPila{
+    char parentesis;
+};
+
+#endif //INC_01_IMPLEMENTACION_ELEMENTOPILA_H

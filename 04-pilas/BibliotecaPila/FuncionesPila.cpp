@@ -8,7 +8,7 @@ void construir(struct Pila& pila) {
     pila.longitud = 0;
 }
 
-//  isEmpty: consula si la pila está vacía
+//  isEmpty: consulta si la pila está vacía
 bool esPilaVacia(const struct Pila& pila) {
     return pila.inicio == nullptr;
 }

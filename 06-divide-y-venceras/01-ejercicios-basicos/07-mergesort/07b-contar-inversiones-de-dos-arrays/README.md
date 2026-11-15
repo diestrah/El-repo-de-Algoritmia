@@ -29,4 +29,4 @@ Las inversiones son `(2, 1)`, `(4, 1)` y `(4, 3)`.
 - La complejidad temporal del algoritmo debe ser **O(n + m)**.
 - La complejidad espacial del algoritmo debe ser **O(n + m)**.
 
-[Siguiente ejercicio](07c-contar-inversiones-completo-(mergesort))
+[Siguiente ejercicio](../07c-contar-inversiones-completo-(mergesort))

@@ -30,4 +30,4 @@ Las inversiones son `(2, 1)`, `(4, 1)` y `(4, 3)`.
 - La complejidad temporal del algoritmo debe ser **O(n log n)**.
 - La complejidad espacial del algoritmo debe ser **O(n)**.
 
-[Volver al indice](01-ejercicios-basicos)
+[Volver al indice](../../)
